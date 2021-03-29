@@ -23,16 +23,16 @@ This deep learning model is trained using `GPU` and to work in the same environm
 
 The dataset is divided into 97% for training, 1.5% for validation and testing respectively. The model is trained for `20 epochs`.
 
-![Image5](./docs/img-5.png)
-![Image6](./docs/img-6.png)
+![Image5](./docs/imgs/img-5.png)
+![Image6](./docs/imgs/img-6.png)
 
 Model's performance on `training` and `validation` datasets.
 
-![Image7](./docs/img-7.png)
+![Image7](./docs/imgs/img-7.png)
 
 Model's performance on `testing` dataset.
 
-![Image8](./docs/img-8.png)
+![Image8](./docs/imgs/img-8.png)
 
 Model's poor performance on `testing` set might be because of small number of testing samples or our model might be facing `overfitting` issue on `training` and `validation`. So there is room for improvement.
 
@@ -40,10 +40,10 @@ Model's poor performance on `testing` set might be because of small number of te
 
 Visualizing the word embedding learned by the `model` using [Tensorflow Projector](https://projector.tensorflow.org/)
 
-![Image1](./docs/img-1.png)
-![Image2](./docs/img-2.png)
-![Image3](./docs/img-3.png)
-![Image4](./docs/img-4.png)
+![Image1](./docs/imgs/img-1.png)
+![Image2](./docs/imgs/img-2.png)
+![Image3](./docs/imgs/img-3.png)
+![Image4](./docs/imgs/img-4.png)
 
 ## License
 
